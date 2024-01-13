@@ -1,0 +1,25 @@
+# Cypress
+node_modules/
+.cypress/
+.cypress.env.json
+.env
+
+# Cypress Videos and Screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Cypress configuration
+cypress.json
+
+# Node.js
+npm-debug.log
+*.log
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
